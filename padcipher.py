@@ -66,7 +66,7 @@ print(decipher(newnumpad, encryptedmessage))
 #answer = decipher(g, newnumpad)
 #answer = open('decrypted-message', 'w')
 
-
+#this is a test 
 generatepad(numpad)  
 encipher(encryptedmessage)
 decipher(encryptedmessage)
